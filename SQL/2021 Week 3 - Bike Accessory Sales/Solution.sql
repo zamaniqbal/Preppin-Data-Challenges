@@ -47,3 +47,22 @@ GROUP BY
 ORDER BY 
     Quarter
     ,products_sold;
+
+-- Output
+-- PRODUCT	QUARTER	PRODUCTS_SOLD
+-- Wheels	1	319
+-- Saddles	1	321
+-- Bags	1	683
+-- Mudguards	1	1006
+-- Saddles	2	280
+-- Wheels	2	303
+-- Mudguards	2	442
+-- Bags	2	593
+-- Wheels	3	306
+-- Mudguards	3	331
+-- Saddles	3	361
+-- Bags	3	564
+-- Wheels	4	290
+-- Saddles	4	337
+-- Bags	4	541
+-- Mudguards	4	674
