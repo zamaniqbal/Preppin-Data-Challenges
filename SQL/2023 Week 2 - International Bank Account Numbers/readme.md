@@ -8,3 +8,6 @@
 
 ### Input 2 - Lookup Table of Bank SWIFT Codes
 ![image](https://github.com/user-attachments/assets/5fc3adb9-b780-4b60-9b80-961fedb2ef25)
+
+### Expected Output Preview (2 fields, 100 rows):
+![image](https://github.com/user-attachments/assets/b154c9fe-ec38-41eb-8e88-0af722fedd51)
