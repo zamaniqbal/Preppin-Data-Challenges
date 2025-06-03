@@ -1,0 +1,1 @@
+## My solutions to all Preppin Data Challenges using SQL (Snowflake)
