@@ -1,0 +1,373 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2024.2" RunE2="T">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="30" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\PD 2021 Wk 1 Input - Bike Sales.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>PD 2021 Wk 1 Input - Bike Sales.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Order ID" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\PD 2021 Wk 1 Input - Bike Sales.csv" type="V_String" />
+            <Field name="Customer Age" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\PD 2021 Wk 1 Input - Bike Sales.csv" type="V_String" />
+            <Field name="Bike Value" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\PD 2021 Wk 1 Input - Bike Sales.csv" type="V_String" />
+            <Field name="Existing Customer?" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\PD 2021 Wk 1 Input - Bike Sales.csv" type="V_String" />
+            <Field name="Date" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\PD 2021 Wk 1 Input - Bike Sales.csv" type="V_String" />
+            <Field name="Store - Bike" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\PD 2021 Wk 1 Input - Bike Sales.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="78" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\ZAMANB~1\AppData\Local\Temp\Alteryx\Engine_15044_b755118233804884b4e929bc7eef3a10_\Engine_15044_a619f9d0e8284a8481a22271f00942d8~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="150" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Order ID" selected="True" type="Int64" size="8" />
+            <SelectField field="Customer Age" selected="True" type="Int64" size="8" />
+            <SelectField field="Bike Value" selected="True" type="Double" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+        <Position x="246" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <IsFrom value="False" />
+          <InputFieldName>Date</InputFieldName>
+          <Language>English</Language>
+          <Format>dd/MM/yyyy</Format>
+          <OutputFieldName>Date1</OutputFieldName>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Convert Date From:
+dd/MM/yyyy</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="294" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Date2" selected="True" rename="Order Date" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="390" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>Store - Bike</Field>
+          <ErrorHandling>Last</ErrorHandling>
+          <RootName>Store - Bike</RootName>
+          <Delimeters value="-" />
+          <NumFields value="2" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings>
+        <Position x="474" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Check Box (135)">False</Value>
+          <Value name="Check Box (136)">False</Value>
+          <Value name="List Box (11)">"Store - Bike1","Store - Bike2"</Value>
+          <Value name="Check Box (84)">False</Value>
+          <Value name="Check Box (117)">False</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="570" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Date" selected="False" />
+            <SelectField field="Store - Bike" selected="False" />
+            <SelectField field="Store - Bike1" selected="True" rename="Store" />
+            <SelectField field="Store - Bike2" selected="True" rename="Bike Type" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="666" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF StartsWith([Bike Type], &quot;R&quot;)&#xA;THEN &quot;Road&quot;&#xA;ELSEIF StartsWith([Bike Type], &quot;M&quot;)&#xA;THEN &quot;Mountain&quot;&#xA;ELSE &quot;Gravel&quot;&#xA;ENDIF" field="Bike Type" size="254" type="V_String" enabled="true" />
+            <FormulaField expression="DateTimeDay([Date1])" field="Day of Month" size="1" type="Byte" enabled="true" />
+            <FormulaField expression="DateTimeQuarter([Date1])" field="Quarter" size="1" type="Byte" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Bike Type = IF StartsWith([Bike Type], "R")
+THEN "Road"
+ELSEIF StartsWith([Bike ...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="810" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\ZAMANB~1\AppData\Local\Temp\Alteryx\Engine_15044_b755118233804884b4e929bc7eef3a10_\Engine_15044_2f472b3c6a0f4c04861957f77cd7324f~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sample.Sample">
+        <Position x="750" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Skip</Mode>
+          <N>10</N>
+          <GroupFields orderChanged="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Skip 1st 10 rows</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSample" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="8" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output26" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Wk 8 - Alteryx Ecosystem and Desginer</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="e2fa257d-6a82-489c-bf01-1e2d003fd796" />
+      <Telemetry>
+        <PreviousWorkflowId value="549a5a7d-eb19-4285-9ca3-6bd20d89b986" />
+        <OriginWorkflowId value="549a5a7d-eb19-4285-9ca3-6bd20d89b986" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

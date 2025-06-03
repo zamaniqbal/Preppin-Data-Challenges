@@ -1,0 +1,776 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2024.2">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="60" y="170" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\How many steps did you take at Tableau Conference_ #Data23 (Responses) - TC23 Step Counts.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>How many steps did you take at Tableau Conference_ #Data23 (Responses) - TC23 Step Counts.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="User ID" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\How many steps did you take at Tableau Conference_ #Data23 (Responses) - TC23 Step Counts.csv" type="V_String" />
+            <Field name="Did you attend in person or virtual?" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\How many steps did you take at Tableau Conference_ #Data23 (Responses) - TC23 Step Counts.csv" type="V_String" />
+            <Field name="Name" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\How many steps did you take at Tableau Conference_ #Data23 (Responses) - TC23 Step Counts.csv" type="V_String" />
+            <Field name="Twitter handle" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\How many steps did you take at Tableau Conference_ #Data23 (Responses) - TC23 Step Counts.csv" type="V_String" />
+            <Field name="Did you participate in #RunData?" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\How many steps did you take at Tableau Conference_ #Data23 (Responses) - TC23 Step Counts.csv" type="V_String" />
+            <Field name="Which hotel did you stay at?" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\How many steps did you take at Tableau Conference_ #Data23 (Responses) - TC23 Step Counts.csv" type="V_String" />
+            <Field name="What device did you use to track your steps?" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\How many steps did you take at Tableau Conference_ #Data23 (Responses) - TC23 Step Counts.csv" type="V_String" />
+            <Field name="Notes/Comments" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\How many steps did you take at Tableau Conference_ #Data23 (Responses) - TC23 Step Counts.csv" type="V_String" />
+            <Field name="may_7_2023" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\How many steps did you take at Tableau Conference_ #Data23 (Responses) - TC23 Step Counts.csv" type="V_String" />
+            <Field name="may_8_2023" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\How many steps did you take at Tableau Conference_ #Data23 (Responses) - TC23 Step Counts.csv" type="V_String" />
+            <Field name="may_9_2023" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\How many steps did you take at Tableau Conference_ #Data23 (Responses) - TC23 Step Counts.csv" type="V_String" />
+            <Field name="may_10_2023" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\How many steps did you take at Tableau Conference_ #Data23 (Responses) - TC23 Step Counts.csv" type="V_String" />
+            <Field name="may_11_2023" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\How many steps did you take at Tableau Conference_ #Data23 (Responses) - TC23 Step Counts.csv" type="V_String" />
+            <Field name="may_12_2023" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\How many steps did you take at Tableau Conference_ #Data23 (Responses) - TC23 Step Counts.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="60" y="368" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\Tableau Conference Steps 2024 San Diego.xlsx|||`Tableau Conference Steps 2024 S$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Tableau Conference Steps 2024 San Diego.xlsx
+Query=`Tableau Conference Steps 20...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="User ID" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\Tableau Conference Steps 2024 San Diego.xlsx|||`Tableau Conference Steps 2024 S$`" type="Double" />
+            <Field name="Attendee Location" size="255" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\Tableau Conference Steps 2024 San Diego.xlsx|||`Tableau Conference Steps 2024 S$`" type="V_String" />
+            <Field name="Name" size="255" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\Tableau Conference Steps 2024 San Diego.xlsx|||`Tableau Conference Steps 2024 S$`" type="V_String" />
+            <Field name="Twitter handle" size="255" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\Tableau Conference Steps 2024 San Diego.xlsx|||`Tableau Conference Steps 2024 S$`" type="V_String" />
+            <Field name="Bluesky handle" size="255" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\Tableau Conference Steps 2024 San Diego.xlsx|||`Tableau Conference Steps 2024 S$`" type="V_String" />
+            <Field name="Tableau Public Profile" size="255" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\Tableau Conference Steps 2024 San Diego.xlsx|||`Tableau Conference Steps 2024 S$`" type="V_String" />
+            <Field name="Other Blog/Portfolio Website (optional)" size="255" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\Tableau Conference Steps 2024 San Diego.xlsx|||`Tableau Conference Steps 2024 S$`" type="V_String" />
+            <Field name="What device did you use to track your steps?" size="255" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\Tableau Conference Steps 2024 San Diego.xlsx|||`Tableau Conference Steps 2024 S$`" type="V_String" />
+            <Field name="Hotel" size="255" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\Tableau Conference Steps 2024 San Diego.xlsx|||`Tableau Conference Steps 2024 S$`" type="V_WString" />
+            <Field name="Company" size="255" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\Tableau Conference Steps 2024 San Diego.xlsx|||`Tableau Conference Steps 2024 S$`" type="V_String" />
+            <Field name="Shoes" size="255" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\Tableau Conference Steps 2024 San Diego.xlsx|||`Tableau Conference Steps 2024 S$`" type="V_WString" />
+            <Field name="Did you participate in #RunData?" size="255" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\Tableau Conference Steps 2024 San Diego.xlsx|||`Tableau Conference Steps 2024 S$`" type="V_String" />
+            <Field name="Notes/Comments" size="255" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\Tableau Conference Steps 2024 San Diego.xlsx|||`Tableau Conference Steps 2024 S$`" type="V_WString" />
+            <Field name="2024-04-27" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\Tableau Conference Steps 2024 San Diego.xlsx|||`Tableau Conference Steps 2024 S$`" type="Double" />
+            <Field name="2024-04-28" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\Tableau Conference Steps 2024 San Diego.xlsx|||`Tableau Conference Steps 2024 S$`" type="Double" />
+            <Field name="2024-04-29" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\Tableau Conference Steps 2024 San Diego.xlsx|||`Tableau Conference Steps 2024 S$`" type="Double" />
+            <Field name="2024-04-30" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\Tableau Conference Steps 2024 San Diego.xlsx|||`Tableau Conference Steps 2024 S$`" type="Double" />
+            <Field name="2024-05-01" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\Tableau Conference Steps 2024 San Diego.xlsx|||`Tableau Conference Steps 2024 S$`" type="Double" />
+            <Field name="2024-05-02" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\Tableau Conference Steps 2024 San Diego.xlsx|||`Tableau Conference Steps 2024 S$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="60" y="60" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\TC22 Vegas Step Counts.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>TC22 Vegas Step Counts.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="User ID" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\TC22 Vegas Step Counts.csv" type="V_String" />
+            <Field name="Name" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\TC22 Vegas Step Counts.csv" type="V_String" />
+            <Field name="Twitter handle" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\TC22 Vegas Step Counts.csv" type="V_String" />
+            <Field name="May 15 2022" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\TC22 Vegas Step Counts.csv" type="V_String" />
+            <Field name="May 16 2022" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\TC22 Vegas Step Counts.csv" type="V_String" />
+            <Field name="May 17 2022" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\TC22 Vegas Step Counts.csv" type="V_String" />
+            <Field name="May 18 2022" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\TC22 Vegas Step Counts.csv" type="V_String" />
+            <Field name="May 19 2022" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\TC22 Vegas Step Counts.csv" type="V_String" />
+            <Field name="May 20 2022" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\TC22 Vegas Step Counts.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="214" y="60" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="User ID" />
+            <Field field="Name" />
+            <Field field="Twitter handle" />
+          </KeyFields>
+          <DataFields>
+            <Field field="User ID" selected="False" />
+            <Field field="Name" selected="False" />
+            <Field field="Twitter handle" selected="False" />
+            <Field field="May 15 2022" selected="True" />
+            <Field field="May 16 2022" selected="True" />
+            <Field field="May 17 2022" selected="True" />
+            <Field field="May 18 2022" selected="True" />
+            <Field field="May 19 2022" selected="True" />
+            <Field field="May 20 2022" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="214" y="170" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="User ID" />
+            <Field field="Did you attend in person or virtual?" />
+            <Field field="Name" />
+            <Field field="Twitter handle" />
+            <Field field="Did you participate in #RunData?" />
+            <Field field="Which hotel did you stay at?" />
+            <Field field="What device did you use to track your steps?" />
+            <Field field="Notes/Comments" />
+          </KeyFields>
+          <DataFields>
+            <Field field="User ID" selected="False" />
+            <Field field="Did you attend in person or virtual?" selected="False" />
+            <Field field="Name" selected="False" />
+            <Field field="Twitter handle" selected="False" />
+            <Field field="Did you participate in #RunData?" selected="False" />
+            <Field field="Which hotel did you stay at?" selected="False" />
+            <Field field="What device did you use to track your steps?" selected="False" />
+            <Field field="Notes/Comments" selected="False" />
+            <Field field="may_7_2023" selected="True" />
+            <Field field="may_8_2023" selected="True" />
+            <Field field="may_9_2023" selected="True" />
+            <Field field="may_10_2023" selected="True" />
+            <Field field="may_11_2023" selected="True" />
+            <Field field="may_12_2023" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="214" y="368" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="User ID" />
+            <Field field="Attendee Location" />
+            <Field field="Name" />
+            <Field field="Twitter handle" />
+            <Field field="Bluesky handle" />
+            <Field field="Tableau Public Profile" />
+            <Field field="Other Blog/Portfolio Website (optional)" />
+            <Field field="What device did you use to track your steps?" />
+            <Field field="Hotel" />
+            <Field field="Company" />
+            <Field field="Shoes" />
+            <Field field="Did you participate in #RunData?" />
+            <Field field="Notes/Comments" />
+          </KeyFields>
+          <DataFields>
+            <Field field="User ID" selected="False" />
+            <Field field="Attendee Location" selected="False" />
+            <Field field="Name" selected="False" />
+            <Field field="Twitter handle" selected="False" />
+            <Field field="Bluesky handle" selected="False" />
+            <Field field="Tableau Public Profile" selected="False" />
+            <Field field="Other Blog/Portfolio Website (optional)" selected="False" />
+            <Field field="What device did you use to track your steps?" selected="False" />
+            <Field field="Hotel" selected="False" />
+            <Field field="Company" selected="False" />
+            <Field field="Shoes" selected="False" />
+            <Field field="Did you participate in #RunData?" selected="False" />
+            <Field field="Notes/Comments" selected="False" />
+            <Field field="2024-04-27" selected="True" />
+            <Field field="2024-04-28" selected="True" />
+            <Field field="2024-04-29" selected="True" />
+            <Field field="2024-04-30" selected="True" />
+            <Field field="2024-05-01" selected="True" />
+            <Field field="2024-05-02" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="357" y="60" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Name2" selected="True" rename="Date" />
+            <SelectField field="Value" selected="True" rename="Steps" type="Int64" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="346" y="170" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Did you attend in person or virtual?" selected="True" rename="Attendee Location" />
+            <SelectField field="Did you participate in #RunData?" selected="False" />
+            <SelectField field="Which hotel did you stay at?" selected="True" rename="Hotel" />
+            <SelectField field="Notes/Comments" selected="False" />
+            <SelectField field="Name2" selected="True" rename="Date" />
+            <SelectField field="Value" selected="True" rename="Steps" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="346" y="368" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Bluesky handle" selected="False" />
+            <SelectField field="Tableau Public Profile" selected="False" />
+            <SelectField field="Other Blog/Portfolio Website (optional)" selected="False" />
+            <SelectField field="Company" selected="False" />
+            <SelectField field="Shoes" selected="False" />
+            <SelectField field="Did you participate in #RunData?" selected="False" />
+            <SelectField field="Notes/Comments" selected="False" />
+            <SelectField field="Name2" selected="True" rename="Date" />
+            <SelectField field="Value" selected="True" rename="Steps" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings>
+        <Position x="445" y="368" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Check Box (135)">False</Value>
+          <Value name="Check Box (136)">False</Value>
+          <Value name="List Box (11)">"User ID","Attendee Location","Name","Twitter handle","What device did you use to track your steps?","Hotel","Date","Steps"</Value>
+          <Value name="Check Box (84)">False</Value>
+          <Value name="Check Box (117)">False</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="709" y="291" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+        <Position x="544" y="170" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <IsFrom value="False" />
+          <InputFieldName>Date</InputFieldName>
+          <Language>English</Language>
+          <Format>Month_d_yyyy</Format>
+          <OutputFieldName>DateTime_Out</OutputFieldName>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Convert Date From:
+Custom</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+        <Position x="544" y="368" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <IsFrom value="False" />
+          <InputFieldName>Date</InputFieldName>
+          <Language>English</Language>
+          <Format>yyyy-MM-dd</Format>
+          <OutputFieldName>DateTime_Out</OutputFieldName>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Convert Date From:
+Custom</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings>
+        <Position x="445" y="170" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Check Box (135)">False</Value>
+          <Value name="Check Box (136)">False</Value>
+          <Value name="List Box (11)">"Date"</Value>
+          <Value name="Check Box (84)">False</Value>
+          <Value name="Check Box (117)">False</Value>
+          <Value name="Check Box (15)">False</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">True</Value>
+          <Value name="Drop Down (81)">title</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="621" y="214" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="User ID" selected="True" type="Int64" size="8" />
+            <SelectField field="Attendee Location" selected="True" />
+            <SelectField field="Name" selected="True" />
+            <SelectField field="Twitter handle" selected="True" />
+            <SelectField field="Hotel" selected="True" />
+            <SelectField field="What device did you use to track your steps?" selected="True" />
+            <SelectField field="Date" selected="False" />
+            <SelectField field="DateTime_Out" selected="True" rename="Date" />
+            <SelectField field="Steps" selected="True" type="Int64" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="621" y="346" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="User ID" selected="True" type="Int64" size="8" />
+            <SelectField field="Attendee Location" selected="True" />
+            <SelectField field="Name" selected="True" />
+            <SelectField field="Twitter handle" selected="True" />
+            <SelectField field="What device did you use to track your steps?" selected="True" />
+            <SelectField field="Hotel" selected="True" />
+            <SelectField field="Date" selected="False" />
+            <SelectField field="DateTime_Out" selected="True" rename="Date" />
+            <SelectField field="Steps" selected="True" type="Int64" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+        <Position x="456" y="60" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <IsFrom value="False" />
+          <InputFieldName>Date</InputFieldName>
+          <Language>English</Language>
+          <Format>Month dd yyyy</Format>
+          <OutputFieldName>DateTime_Out</OutputFieldName>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Convert Date From:
+Custom</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="632" y="60" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="User ID" selected="True" type="Int64" size="8" />
+            <SelectField field="Name" selected="True" />
+            <SelectField field="Twitter handle" selected="True" />
+            <SelectField field="Date" selected="False" />
+            <SelectField field="DateTime_Out" selected="True" rename="Date" />
+            <SelectField field="Steps" selected="True" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="863" y="192" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <AutoResetMode>ByName</AutoResetMode>
+          <MultiMetaInfo>
+            <MetaInfo name="#1">
+              <RecordInfo>
+                <Field name="User ID" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\TC22 Vegas Step Counts.csv" type="Int64" column="1" />
+                <Field name="Name" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\TC22 Vegas Step Counts.csv" type="V_String" column="2" />
+                <Field name="Twitter handle" size="254" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\TC22 Vegas Step Counts.csv" type="V_String" column="3" />
+                <Field name="Date" source="DateTime: To Month dd yyyy" type="Date" column="4" />
+                <Field name="Steps" source="File: G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\Preppin Data\Step Counts\TC22 Vegas Step Counts.csv" type="Int64" column="5" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo name="#2">
+              <RecordInfo>
+                <Field name="User ID" source="File: (Multiple Sources)" type="Int64" column="1" />
+                <Field name="Name" size="255" source="(Multiple Sources)" type="V_String" column="2" />
+                <Field name="Twitter handle" size="255" source="(Multiple Sources)" type="V_String" column="3" />
+                <Field name="Date" source="DateTime: (Multiple Sources)" type="Date" column="4" />
+                <Field name="Steps" source="File: (Multiple Sources)" type="Int64" column="5" />
+                <Field name="Attendee Location" size="255" source="(Multiple Sources)" type="V_String" column="6" />
+                <Field name="What device did you use to track your steps?" size="255" source="(Multiple Sources)" type="V_String" column="7" />
+                <Field name="Hotel" size="255" source="(Multiple Sources)" type="V_WString" column="8" />
+              </RecordInfo>
+            </MetaInfo>
+          </MultiMetaInfo>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ManualDelayed</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="23">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="992" y="143" width="150" height="165" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Container 23</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="True" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="22">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+            <Position x="1017" y="192" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <File FileFormat="64" MaxRecords="">G:\.shortcut-targets-by-id\0B_IJ_tfFjCcLcS1NZ0tCdV9RNlU\010. Data School\DS49\Zaman Iqbal\Datasources\MoM n WoW Data\All Years Steps.hyper</File>
+              <Passwords />
+              <Disable>False</Disable>
+              <FormatSpecificOptions>
+                <OutputOption>Create</OutputOption>
+              </FormatSpecificOptions>
+              <MultiFile value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>All Years Steps.hyper</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="14" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="10" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Output26" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output26" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="15" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Output" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Steps at Tableau Conference</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="20fb46b6-ece4-4fb9-b776-2ef42bd9a228" />
+      <Telemetry>
+        <PreviousWorkflowId value="21fefad2-d9b3-44b0-abe0-a70f99951256" />
+        <OriginWorkflowId value="21fefad2-d9b3-44b0-abe0-a70f99951256" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
